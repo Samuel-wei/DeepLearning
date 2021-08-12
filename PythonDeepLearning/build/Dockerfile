@@ -28,6 +28,7 @@ RUN mkdir /jupyternotebook/ && \
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
 		unzip \
+		vim \
 		libffi-dev \
 		python3-dev \
         python3-opencv && \
@@ -39,4 +40,6 @@ RUN pip3 install Jupyter notebook
 RUN pip3 install keras
 
 
+WORKDIR /dbdata/DeepLearning/PythonDeepLearning/
 
+# RUN 
