@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6855fd5-0ada-4599-adfd-5c11f0490d95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProbabilityStatistics概率统计" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1USJ1AKbCUcCKLSnVywbZEHYsqb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.NormalRandomVariablePDF10k">
+    <configuration name="NormalRandomVariablePDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProbabilityStatistics概率统计" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContinuousRandomVariable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContinuousRandomVariable/NormalRandomVariablePDF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NormalRandomVariablePDF10k" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProbabilityStatistics概率统计" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContinuousRandomVariable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContinuousRandomVariable/NormalRandomVariablePDF10k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NormalRandomVariablePDF10k" />
+        <item itemvalue="Python.NormalRandomVariablePDF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6855fd5-0ada-4599-adfd-5c11f0490d95" name="Default Changelist" comment="" />
+      <created>1574498171662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574498171662</updated>
+      <workItem from="1574498173050" duration="2257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2257000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="127" key="#Notifications" timestamp="1582965311582">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="640" y="127" key="#Notifications/57.23.1383.877@57.23.1383.877" timestamp="1582965311582" />
+    <state x="775" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583051725669">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="775" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/57.23.1383.877@57.23.1383.877" timestamp="1583051725669" />
+    <state x="448" y="304" key="FileChooserDialogImpl" timestamp="1582965542701">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="448" y="304" key="FileChooserDialogImpl/57.23.1383.877@57.23.1383.877" timestamp="1582965542701" />
+    <state width="664" height="217" key="GridCell.Tab.0.bottom" timestamp="1583074645863">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1583074645863" />
+    <state width="664" height="217" key="GridCell.Tab.0.bottom/54.23.1386.877@54.23.1386.877" timestamp="1582966550645" />
+    <state width="664" height="217" key="GridCell.Tab.0.bottom/57.23.1383.877@57.23.1383.877" timestamp="1583052893222" />
+    <state width="664" height="217" key="GridCell.Tab.0.bottom/60.23.1380.877@60.23.1380.877" timestamp="1582967875370" />
+    <state width="664" height="217" key="GridCell.Tab.0.center" timestamp="1583074645862">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1583074645862" />
+    <state width="664" height="217" key="GridCell.Tab.0.center/54.23.1386.877@54.23.1386.877" timestamp="1582966550644" />
+    <state width="664" height="217" key="GridCell.Tab.0.center/57.23.1383.877@57.23.1383.877" timestamp="1583052893221" />
+    <state width="664" height="217" key="GridCell.Tab.0.center/60.23.1380.877@60.23.1380.877" timestamp="1582967875369" />
+    <state width="664" height="217" key="GridCell.Tab.0.left" timestamp="1583074645861">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1583074645861" />
+    <state width="664" height="217" key="GridCell.Tab.0.left/54.23.1386.877@54.23.1386.877" timestamp="1582966550644" />
+    <state width="664" height="217" key="GridCell.Tab.0.left/57.23.1383.877@57.23.1383.877" timestamp="1583052893220" />
+    <state width="664" height="217" key="GridCell.Tab.0.left/60.23.1380.877@60.23.1380.877" timestamp="1582967875367" />
+    <state width="664" height="217" key="GridCell.Tab.0.right" timestamp="1583074645862">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1583074645862" />
+    <state width="664" height="217" key="GridCell.Tab.0.right/54.23.1386.877@54.23.1386.877" timestamp="1582966550644" />
+    <state width="664" height="217" key="GridCell.Tab.0.right/57.23.1383.877@57.23.1383.877" timestamp="1583052893221" />
+    <state width="664" height="217" key="GridCell.Tab.0.right/60.23.1380.877@60.23.1380.877" timestamp="1582967875369" />
+    <state x="443" y="100" key="SettingsEditor" timestamp="1582964728715">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="443" y="100" key="SettingsEditor/57.23.1383.877@57.23.1383.877" timestamp="1582964728715" />
+    <state x="764" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1583051752820">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="764" y="294" key="com.intellij.ide.util.TipDialog/57.23.1383.877@57.23.1383.877" timestamp="1583051752820" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProbabilityStatistics$NormalRandomVariablePDF.coverage" NAME="NormalRandomVariablePDF Coverage Results" MODIFIED="1574498837455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ContinuousRandomVariable" />
+    <SUITE FILE_PATH="coverage/ProbabilityStatistics$NormalRandomVariablePDF10k.coverage" NAME="NormalRandomVariablePDF10k Coverage Results" MODIFIED="1574499589838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ContinuousRandomVariable" />
+  </component>
+</project>
