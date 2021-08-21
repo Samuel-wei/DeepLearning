@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49656cbf-fcdd-4b91-b8a1-2cde30ab9eee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UTLXpc40jvbkyLwKCd4qOvTy0s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.BinomailRandomVariable1">
+    <configuration name="BinomailRandomVariable1" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
+      <module name="DiscreteRandomVariable" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinomailRandomVariable1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PoissonDistributionPMF10k" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DiscreteRandomVariable" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PoissonDistributionPMF10k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BinomailRandomVariable1" />
+        <item itemvalue="Python.PoissonDistributionPMF10k" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49656cbf-fcdd-4b91-b8a1-2cde30ab9eee" name="Default Changelist" comment="" />
+      <created>1574407509665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574407509665</updated>
+      <workItem from="1574407510774" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="377000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="783" y="75" key="#BinomailRandomVariable1" timestamp="1582962489639">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="783" y="75" key="#BinomailRandomVariable1/57.23.1383.877@57.23.1383.877" timestamp="1582962489639" />
+    <state x="640" y="127" key="#Inspections" timestamp="1582962518025">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="640" y="127" key="#Inspections/57.23.1383.877@57.23.1383.877" timestamp="1582962518025" />
+    <state width="664" height="217" key="GridCell.Tab.0.bottom" timestamp="1582964509229">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.bottom/57.23.1383.877@57.23.1383.877" timestamp="1582964509229" />
+    <state width="664" height="217" key="GridCell.Tab.0.center" timestamp="1582964509228">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.center/57.23.1383.877@57.23.1383.877" timestamp="1582964509228" />
+    <state width="664" height="217" key="GridCell.Tab.0.left" timestamp="1582964509228">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.left/57.23.1383.877@57.23.1383.877" timestamp="1582964509228" />
+    <state width="664" height="217" key="GridCell.Tab.0.right" timestamp="1582964509229">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state width="664" height="217" key="GridCell.Tab.0.right/57.23.1383.877@57.23.1383.877" timestamp="1582964509229" />
+    <state x="443" y="100" key="SettingsEditor" timestamp="1582963306896">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state x="443" y="100" key="SettingsEditor/52.23.1388.877@52.23.1388.877" timestamp="1582963306896" />
+    <state x="425" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582962413893">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="425" y="294" key="com.intellij.ide.util.TipDialog/57.23.1383.877@57.23.1383.877" timestamp="1582962413893" />
+  </component>
+</project>
